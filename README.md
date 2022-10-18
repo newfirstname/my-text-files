@@ -1,3 +1,3 @@
 # My Text Files
 
-mostly containing links to wiki pedia :)
+mostly containing links to wikipedia :)
